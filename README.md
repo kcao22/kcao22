@@ -27,4 +27,3 @@ My name is Kevin and I am a current data analyst with a current goal of becoming
   - I am a huge football fan (Go Seahawks!) 
   - I love building keyboards and other hand-based crafts!
   - I have a bachelor's degree in Bioresource Science & Engineering and I have worked in the pulp & paper industry.
--->
