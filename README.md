@@ -1,4 +1,4 @@
-### Hi there 👋 Thank you for visiting my Github page
+### Hi there 👋 Thank you for visiting my Github page!
 
 My name is Kevin and I am a current data analyst with a current goal of becoming a data scientist. I am a recent graduate student from the University of Washington where I completed a master's degree in Data Science in Chemical Engineering. From my graduate experience and current professional work experience, I have had the opportunity to expand my skillsets, some of which include:
 
