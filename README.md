@@ -9,21 +9,21 @@ My name is Kevin and I am a current data analyst with a current goal of becoming
   - PowerBI
   - Excel
 
- ###My Ongoing Projects 👨‍💻:
+ ### My Ongoing Projects 👨‍💻:
 
   - Q-Learning Pac-Man Game
   - Predicting Defaulting Credit Card Accounts
   
- ###I’m currently learning 🌱:
+ ### I’m currently learning 🌱:
 
   - Deep learning operations
   - Machine Learning Model Methodologies
   
- ###How to reach me 📫:
+ ### How to reach me 📫:
 
   - www.linkedin.com/in/kevcao22/
 
- ###Fun facts ⚡:
+ ### Fun facts ⚡:
   - I am a huge football fan (Go Seahawks!) 
   - I love building keyboards and other hand-based crafts!
   - I have a bachelor's degree in Bioresource Science & Engineering and I have worked in the pulp & paper industry.
