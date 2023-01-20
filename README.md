@@ -9,10 +9,16 @@ My name is Kevin and I am a current data analyst with a current goal of becoming
   - PowerBI
   - Excel
 
- ### My Ongoing Projects 👨‍💻:
+ ### My Ongoing Projects ✍️:
 
   - Q-Learning Pac-Man Game
   - Predicting Defaulting Credit Card Accounts
+ 
+ ### Previous Projects 📖:
+  
+  - Web Scraping Data Scientist Salaries
+  - King County Metro: Predicting Hybrid Bus Battery Module Failure
+  - Wisconsin Breast Cancer Classification: Comparing Ensemble Models
   
  ### I’m currently learning 🌱:
 
