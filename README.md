@@ -4,9 +4,10 @@ My name is Kevin and I am a current data analyst with a current goal of becoming
 
   - Python & PySpark
   - SQL
-  - Machine Learning
+  - AWS Analytics Services
   - Data ETL Processes
   - PowerBI DataFlows & Dashboarding
+  - Machine Learning
   - Excel
 
  ### My Ongoing Projects ✍️:
@@ -23,7 +24,9 @@ My name is Kevin and I am a current data analyst with a current goal of becoming
  ### I’m currently learning 🌱:
 
   - AWS Analytics Services
-  - Other Data Engineering Topics
+  - Data Lakehouses
+  - Data Governance
+  - Big Data Best Practices & Enterprise Processes
   
  ### How to reach me 📫:
 
