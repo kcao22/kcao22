@@ -12,11 +12,11 @@ My name is Kevin and I am a current data analyst with a current goal of becoming
 
  ### My Ongoing Projects ✍️:
 
-  - Glassdoor Webscraping AWS End to End Pipeline
- 
+  - Glassdoor Webscraping AWS End-to-End Pipeline
+  - Spotify Web API dbt Snowflake ELT End-to-End Pipeline
+     
  ### Previous Projects 📖:
   
-  - Spotify Local End to End Pipeline
   - Predicting Defaulting Credit Card Accounts
   - King County Metro: Predicting Hybrid Bus Battery Module Failure
   - Wisconsin Breast Cancer Classification: Comparing Ensemble Models
